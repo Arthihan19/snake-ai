@@ -1,0 +1,12 @@
+{
+  "name": "snake-ai",
+  "version": "1.0.0",
+  "description": "Snake game with AI mode in VanillaJS",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
